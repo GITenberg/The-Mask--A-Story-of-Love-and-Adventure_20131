@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '6570'
     url: http://www.gutenberg.org/2009/agents/6570
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20131#The-Mask--A-Story-of-Love-and-Adventure
 gutenberg_issued: '2006-12-18'
 gutenberg_type: Text
 identifiers:
